@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <level>1</level>
+  <volume>10</volume>
+  <difficulty>1</difficulty>
+  <res>
+    <X>1920</X>
+    <Y>1080</Y>
+  </res>
+</Settings>
